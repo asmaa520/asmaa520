@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Asmaa Sayed</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **Backend Development (C#, .NET) - Web Development (React, Vue) - Problem Solving & Algorithms**
+- 🌱 I’m currently learning **Backend Development (C#, .NET) || Web Development (React, Vue) - Problem Solving & Algorithms**
 
 - 👯 I’m looking to collaborate on [Movie App Project](https://github.com/Basmala-27/Movies.git)
 
@@ -9,11 +9,11 @@
 
 - 📫 How to reach me:LinkedIn [www.linkedin.com/in/asmaa-sayed-758453320](www.linkedin.com/in/asmaa-sayed-758453320)
 
-- 💬 Ask me about **- C# & Backend - Web Development**
+- 💬 Ask me about **C# & Backend || Web Development**
 
 - 📫 How to reach me:Email **asmasyd746@gmail.com**
 
-- ⚡ Fun fact **- I love coding challenges and exploring new tech - Coffee + Code = Perfect Combo ☕💻**
+- ⚡ Fun fact **I love coding challenges and exploring new tech || Coffee + Code = Perfect Combo ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
