@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <h1 align="center">Hi , I'm Asmaa Sayed</h1>
 <h3 align="center">A passionate Backend Developer</h3>
@@ -29,7 +27,7 @@ Interactive 3D models built with Spline, enhanced with smooth AOS animations acr
 </a>
 </p>
 
-<h3 align="left">Languages and Tools (Animated):</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" />
@@ -44,3 +42,14 @@ Interactive 3D models built with Spline, enhanced with smooth AOS animations acr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
 </p>
+
+<h3 align="center">GitHub Contributions Game:</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="600">
+</picture>
+</p>
+
+
