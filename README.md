@@ -3,11 +3,7 @@
 <h1 align="center">Hi , I'm Asmaa Sayed</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-<p align="center">
-Interactive 3D models built with Spline, enhanced with smooth AOS animations across all sections and images.
-</p>
-
-- 🌱 I’m currently learning **Backend Development (C#, .NET) || Web Development (React, Vue) - Problem Solving & Algorithms**
+- 🌱 I’m currently learning **Backend Development (C#, .NET) || Web Development  || Problem Solving & Algorithms**
 
 - 👯 I’m looking to collaborate on [Movie App Project](https://github.com/Basmala-27/Movies.git)
 
@@ -43,13 +39,5 @@ Interactive 3D models built with Spline, enhanced with smooth AOS animations acr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
 </p>
 
-<h3 align="center">GitHub Contributions Game:</h3>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="600">
-</picture>
 </p>
-
 
